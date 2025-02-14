@@ -13,9 +13,9 @@ I recently worked on a project that leverages Docker Compose to streamline the l
 ### 2. Clone the Repository
 - Download the project using:
   ```bash
-  git clone https://github.com/EduTrack-sanchitha/public-compose.git
+  git clone https://github.com/EduTrack-Flask-Application-codingcad/public-compose-edutrack.git
 
 ### 3. Run the Project
-- docker-compose up
+- docker compose up
 
 ### 4. Open your browser and load: http://localhost:5001
