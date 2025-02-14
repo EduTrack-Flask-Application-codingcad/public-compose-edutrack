@@ -16,6 +16,8 @@ I recently worked on a project that leverages Docker Compose to streamline the l
   git clone https://github.com/EduTrack-Flask-Application-codingcad/public-compose-edutrack.git
 
 ### 3. Run the Project
-- docker compose up
-
+```bash
+cd public-compose-edutrack
+docker compose up
+```
 ### 4. Open your browser and load: http://localhost:5001
